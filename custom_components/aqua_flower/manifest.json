@@ -5,5 +5,6 @@
   "documentation": "https://github.com/theaquaflower/aqua-flower",
   "requirements": [],
   "codeowners": ["@theaquaflower"],
-  "iot_class": "local_push"
+  "iot_class": "local_push",
+  "dependencies": ["input_boolean", "input_number"]
 }
