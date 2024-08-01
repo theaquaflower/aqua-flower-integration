@@ -1,0 +1,9 @@
+{
+  "domain": "aqua_flower",
+  "name": "Aqua Flower",
+  "version": "1.0.0",
+  "documentation": "https://github.com/theaquaflower/aqua-flower",
+  "requirements": [],
+  "codeowners": ["@theaquaflower"],
+  "iot_class": "local_push"
+}

@@ -1,0 +1,24 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore temporary files
+*.swp
+*.swo
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore HACS and Home Assistant specific files
+home-assistant.log
+home-assistant_v2.db
+config/.storage/
+
+# Ignore sensitive configuration files
+secrets.yaml
+
